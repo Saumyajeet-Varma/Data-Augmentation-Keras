@@ -45,8 +45,8 @@ This allows you to visually compare:
 
 ### How to View
 
-- Navigate to [Image/Original_Image/](./Images/Original_Image/) to see the raw input images
-- Navigate to [Image/Augmented_Images/](./Images/Augmented_Images/) to see the generated augmented samples
+- Navigate to [Images/Original_Image/](./Images/Original_Image/) to see the raw input images
+- Navigate to [Images/Augmented_Images/](./Images/Augmented_Images/) to see the generated augmented samples
 
 ---
 
